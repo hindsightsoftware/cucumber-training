@@ -25,10 +25,4 @@ public class SharedStepDefs {
         world.driver.close();
     }
 
-    @Given("^Hotel Booking has existing bookings$")
-    public void hotel_Booking_has_existing_bookings() throws Exception {
-        world.driver.navigate().to("http://localhost:8080/");
-        world.bookingPage = new BookingPage(world.driver);
-    }
-
 }
