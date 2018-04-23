@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.hindsightsoftware</groupId>
-    <artifactId>sharedStepDemo</artifactId>
+    <artifactId>finishedArchitecture</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <build>
@@ -23,12 +23,6 @@
     </build>
 
     <dependencies>
-        <dependency>
-            <groupId>com.hindsightsoftware</groupId>
-            <artifactId>hotel-booking-backend</artifactId>
-            <version>1.0.7</version>
-            <type>pom</type>
-        </dependency>
         <dependency>
             <groupId>io.cucumber</groupId>
             <artifactId>cucumber-java</artifactId>

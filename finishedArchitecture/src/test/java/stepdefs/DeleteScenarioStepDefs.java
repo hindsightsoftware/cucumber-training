@@ -34,7 +34,7 @@ public class DeleteScenarioStepDefs {
 
         int rowCount = bookingPage.rowCount();
 
-        Assert.assertThat(rowCount, is(2));
+        Assert.assertThat(rowCount, is(1));
     }
 
 }
