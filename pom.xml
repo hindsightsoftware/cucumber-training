@@ -12,5 +12,6 @@
         <module>exercise3</module>
         <module>exercise4</module>
         <module>exercise5</module>
+        <module>finishedArchitecture</module>
     </modules>
 </project>
