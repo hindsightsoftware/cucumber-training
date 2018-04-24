@@ -6,5 +6,5 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         features = {"src/test/resource"}
 )
-public class RunCukesTest {
+public class RunCukesIT {
 }
